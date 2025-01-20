@@ -5,7 +5,7 @@
 
 - 💻 Currently working as SDET at (EUA) [Howdy](https://www.howdy.com) and at (BRA) [Sicoob](https://www.sicoob.com.br)
 
-- ▶️ Starting to post videos on [youtube.com/@tech.colozzo](https://www.youtube.com/@tech.colozzo)
+- ▶️ Starting to post videos on [youtube.com/@tech.colozzo](https://www.youtube.com/@colozzotech)
 
 - 💬 Ask me about **Robot Framework, Python, JavaScript, Cypress, Appium, Selenium, Automation Tests, API Tests, Mobile Tests, Web Tests...**
 
