@@ -3,7 +3,7 @@
 
 - 🔥 Content Creator & QA Mentor focused on helping people to start in QA and Tests area!
 
-- 💻 Currently working as SDET at (EUA) [Howdy](https://www.howdy.com) and in (BRA) [Sicoob](https://www.sicoob.com.br)
+- 💻 Currently working as SDET at (EUA) [Howdy](https://www.howdy.com) and at (BRA) [Sicoob](https://www.sicoob.com.br)
 
 - ▶️ Starting to post videos on [youtube.com/@tech.colozzo](https://www.youtube.com/@tech.colozzo)
 
