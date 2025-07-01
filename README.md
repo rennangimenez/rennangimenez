@@ -102,35 +102,16 @@
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skills.syvixor.com/api/icons?i=eclipse" height="40" alt="eclipse logo"  />
-  <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=sublime" height="40" alt="sublime logo"  />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=intellij" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://skills.syvixor.com/api/icons?i=intellij" height="40" alt="intellij logo"  />
-</div>
 
-<br></br>
-###
-
-<h2 align="left">📊 GitHub Analytics</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rennangimenez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br></br>
 ###
 
 <h2 align="left">🌐 Social Links</h2>
-
-###
-
-<div align="left">
-</div>
 
 ###
 
