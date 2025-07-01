@@ -3,11 +3,12 @@
 
 - 🔥 Content Creator & QA Mentor focused on helping people to start in QA and Tests area!
 
-- 💻 Currently working as SDET at (EUA) [Howdy](https://www.howdy.com) and at (BRA) [Stefanini](https://stefanini.com/pt-br)/[Sicoob](https://www.sicoob.com.br)
+- 💻 Currently working as SDET at [Colozzo Tech](https://www.linkedin.com/company/colozzotech)
 
-- ▶️ Starting to post videos on [youtube.com/@tech.colozzo](https://www.youtube.com/@colozzotech)
+- ▶️ <img src="https://skills.syvixor.com/api/icons?i=youtube" height="12" alt="youtube logo"  />
+  <img width="12" /> [youtube.com/@colozzotech](https://www.youtube.com/@colozzotech)
 
-- 💬 Ask me about **Robot Framework, Python, JavaScript, Cypress, Appium, Selenium, Automation Tests, API Tests, Mobile Tests, Web Tests...**
+- 💬 Ask me about **Robot Framework, Python, Java, JavaScript, Typescript, Cypress, Playwright, Appium, Selenium, Automation Tests, API Tests, Mobile Tests, Web Tests...**
 
 <br></br>
 ###
@@ -17,6 +18,14 @@
 ###
 
 <div align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=playwright" height="40" alt="playwright logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -25,9 +34,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=appium" height="40" alt="appium logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=circleci" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -39,35 +56,39 @@
 <br></br>
 ###
 
-<h2 align="left">🎨 Design & Editing</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-</div>
-
-<br></br>
-###
-
 <h2 align="left">💾 Data Base</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=oracle" height="40" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=dbeaver" height="40" alt="dbeaver logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+<br></br>
+###
+
+<h2 align="left">🎨 Design & Editing</h2>
+
+###
+
+<div align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=ae" height="40" alt="after effects logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=ps" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=premierepro" height="40" alt="premiere logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=illustrator" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=obs" height="40" alt="obs logo"  />
 </div>
 
 <br></br>
@@ -121,7 +142,7 @@
   <a href="https://discord.gg/X8KGdy44sX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/@tech.colozzo" target="_blank">
+  <a href="https://www.youtube.com/@colozzotech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   </a>
 </div>
