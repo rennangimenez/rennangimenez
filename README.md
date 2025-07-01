@@ -5,8 +5,7 @@
 
 - 💻 Currently working as SDET at [Colozzo Tech](https://www.linkedin.com/company/colozzotech)
 
-- <img src="https://skills.syvixor.com/api/icons?i=youtube" height="20" alt="youtube logo"  />
-  <img width="20" /> [youtube.com/@colozzotech](https://www.youtube.com/@colozzotech)
+- 🎬 Contents on [youtube.com/@colozzotech](https://www.youtube.com/@colozzotech)
 
 - 💬 Ask me about **Robot Framework, Python, Java, JavaScript, Typescript, Cypress, Playwright, Appium, Selenium, Automation Tests, API Tests, Mobile Tests, Web Tests...**
 
