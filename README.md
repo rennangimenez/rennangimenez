@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skills.syvixor.com/api/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=appium" height="40" alt="appium logo"  />
   <img width="12" />
