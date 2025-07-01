@@ -19,37 +19,29 @@
 <div align="left">
   <img src="https://skills.syvixor.com/api/icons?i=playwright" height="40" alt="playwright logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=cypress" height="40" alt="cypress logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=typescript" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=appium" height="40" alt="appium logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=cucumber" height="40" alt="cucumber logo"  />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=circleci" height="40" alt="circleci logo"  />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=node" height="40" alt="node logo"  />
 </div>
 
 <br></br>
