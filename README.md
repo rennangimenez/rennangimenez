@@ -92,11 +92,23 @@
 <div align="left">
   <img src="https://skills.syvixor.com/api/icons?i=jira" height="40" alt="jira logo"  />
   <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=trello" height="40" alt="trello logo"  />
+  <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=confluence" height="40" alt="confluence logo"  />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=grafana" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=eclipse" height="40" alt="eclipse logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=sublime" height="40" alt="sublime logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=intellij" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=intellij" height="40" alt="intellij logo"  />
 </div>
 
 <br></br>
@@ -107,7 +119,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rennangimenez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Rennan's%20GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rennangimenez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -125,15 +136,19 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rennan-gimenez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img src="https://skills.syvixor.com/api/icons?i=linkedin" height="40" alt="linkedin logo"  />
+    <img width="12" />
   </a>
   <a href="https://www.instagram.com/rennangimenez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+    <img src="https://skills.syvixor.com/api/icons?i=instagram" height="40" alt="instagram logo"  />
+    <img width="12" />
   </a>
   <a href="https://discord.gg/X8KGdy44sX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+    <img src="https://skills.syvixor.com/api/icons?i=discord" height="40" alt="discord logo"  />
+    <img width="12" />
   </a>
   <a href="https://www.youtube.com/@colozzotech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+    <img src="https://skills.syvixor.com/api/icons?i=youtube" height="40" alt="youtube logo"  />
+    <img width="12" />
   </a>
 </div>
