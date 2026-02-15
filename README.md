@@ -104,21 +104,43 @@
 
 <h2>📈 GitHub Stats</h2>
 
-<!-- Main Stats -->
-[![Rennan's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=rennangimenez&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rennangimenez#gh-dark-mode-only)
-[![Rennan's GitHub stats-Light](https://github-readme-stats-fast.vercel.app/api?username=rennangimenez&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/rennangimenez#gh-light-mode-only)
+<div align="center">
 
-<br/>
+  <!-- Main Stats -->
+  <a href="https://github.com/rennangimenez#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=rennangimenez&show_icons=true&theme=dark#gh-dark-mode-only"
+      height="190"
+      alt="Rennan GitHub Stats Dark"
+    />
+  </a>
+  <a href="https://github.com/rennangimenez#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=rennangimenez&show_icons=true&theme=default#gh-light-mode-only"
+      height="190"
+      alt="Rennan GitHub Stats Light"
+    />
+  </a>
 
-<!-- Top Languages -->
-[![Top Langs-Dark](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rennangimenez&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/rennangimenez#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rennangimenez&layout=compact&theme=default#gh-light-mode-only)](https://github.com/rennangimenez#gh-light-mode-only)
+  <img width="20" />
 
-<br/>
+  <!-- Streak -->
+  <a href="https://github.com/rennangimenez#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/streak/?username=rennangimenez&theme=dark#gh-dark-mode-only"
+      height="190"
+      alt="Rennan GitHub Streak Dark"
+    />
+  </a>
+  <a href="https://github.com/rennangimenez#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/streak/?username=rennangimenez&theme=default#gh-light-mode-only"
+      height="190"
+      alt="Rennan GitHub Streak Light"
+    />
+  </a>
 
-<!-- Streak -->
-[![GitHub Streak-Dark](https://github-readme-stats-fast.vercel.app/api/streak/?username=rennangimenez&theme=dark#gh-dark-mode-only)](https://github.com/rennangimenez#gh-dark-mode-only)
-[![GitHub Streak-Light](https://github-readme-stats-fast.vercel.app/api/streak/?username=rennangimenez&theme=default#gh-light-mode-only)](https://github.com/rennangimenez#gh-light-mode-only)
+</div>
 
 <br/>
 
