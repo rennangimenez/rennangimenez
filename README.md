@@ -7,17 +7,18 @@
 </p>
 
 <p>
-  I'm Rennan — SDET / QA Engineer focused on building reliable test automation at scale.
-  I work across international teams and projects, and I also build products and community initiatives through
-  <b>Colozzo Tech</b> and <b>Nexus Labz</b>.
+  Hello everyone 👋🏻
+  I'm Rennan Gimenez, an SDET focused on building reliable test automation at scale.
+  Nowadays I'm working across international teams and projects, and I'm also building products and community initiatives through
+  <b>Nexus Labz</b>.
 </p>
 
 <ul>
-  <li>🧪 <b>Focus:</b> Test Automation Architecture • E2E/API • CI/CD Quality Gates • Flaky-test reduction</li>
-  <li>🌍 <b>Experience:</b> Remote and hybrid collaboration with US/EU teams</li>
-  <li>🏗️ <b>Building:</b> <a href="https://www.linkedin.com/company/colozzotech" target="_blank">Colozzo Tech</a> • <a href="https://nexuslabz.co" target="_blank">Nexus Labz</a></li>
+  <li>🧪 <b>Main Focus:</b> Test Automation Architecture • AI-Driven tests • CI/CD Quality gates • Flakiness reduction</li>
+  <li>🌍 <b>Experience:</b> Remote collaboration with US & EU teams</li>
+  <li>🏗️ <b>Building:</b> <a href="https://nexuslabz.co" target="_blank">Nexus Labz</a></li>
   <li>🎬 <b>Content:</b> <a href="https://www.youtube.com/@colozzotech" target="_blank">youtube.com/@colozzotech</a></li>
-  <li>💬 <b>Ask me about:</b> Robot Framework, Python, Java, JavaScript/TypeScript, Cypress, Playwright, Appium, Selenium, CI/CD, test strategy</li>
+  <li>💬 <b>Feel free to ask me about:</b> Playwright, Playwright MCP, AI-driven tests, Robot Framework, Python, Java, JavaScript/TypeScript, Cypress, Appium, Selenium, CI/CD, test strategy and architecture</li>
 </ul>
 
 <hr/>
@@ -25,17 +26,17 @@
 <h2>🚀 What I'm Working On</h2>
 
 <ul>
-  <li>🔧 Designing scalable automation frameworks (Playwright/Cypress) with maintainability-first patterns</li>
+  <li>🔧 Designing scalable automation frameworks (Playwright) with maintainability-first patterns</li>
   <li>📦 Building shared QA tooling (reporting, dashboards, Slack/Discord notifications, quality standards)</li>
-  <li>🧠 Exploring AI-assisted workflows for test creation, debugging, and maintenance</li>
-  <li>🌐 Growing a community for people starting in QA and Test Automation</li>
+  <li>🧠 Exploring AI-assisted and AI-driven workflows for test creation, debugging, and maintenance</li>
+  <li>🌐 Growing a community for bring together QA's, Developer, Recruiters and a lot more...</li>
 </ul>
 
 <hr/>
 
 <h2>🧩 Tech Stacks</h2>
 
-<p><b>Test Automation • Web • Mobile • CI/CD</b></p>
+<p><b>Test Automation • Web • API • Mobile • CI/CD</b></p>
 
 <div align="left">
   <img src="https://skills.syvixor.com/api/icons?i=playwright" height="40" alt="playwright logo" />
@@ -128,7 +129,6 @@
 
 <ul>
   <li>🌐 Nexus Labz: <a href="https://nexuslabz.co" target="_blank">nexuslabz.co</a></li>
-  <li>🏢 Colozzo Tech: <a href="https://www.linkedin.com/company/colozzotech" target="_blank">LinkedIn Company Page</a></li>
   <li>🎥 YouTube: <a href="https://www.youtube.com/@colozzotech" target="_blank">@colozzotech</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/rennan-gimenez/" target="_blank">rennan-gimenez</a></li>
 </ul>
@@ -155,7 +155,7 @@
     <img src="https://skills.syvixor.com/api/icons?i=instagram" height="40" alt="instagram logo" />
     <img width="12" />
   </a>
-  <a href="https://discord.gg/X8KGdy44sX" target="_blank">
+  <a href="https://discord.gg/3EbHCDGYMh" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=discord" height="40" alt="discord logo" />
     <img width="12" />
   </a>
