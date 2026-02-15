@@ -106,39 +106,19 @@
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <a href="https://github.com/rennangimenez#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=rennangimenez&show_icons=true&theme=dark#gh-dark-mode-only"
-      height="190"
-      alt="Rennan GitHub Stats Dark"
-    />
-  </a>
-  <a href="https://github.com/rennangimenez#gh-light-mode-only">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=rennangimenez&show_icons=true&theme=default#gh-light-mode-only"
-      height="190"
-      alt="Rennan GitHub Stats Light"
-    />
-  </a>
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/rennangimenez?cardType=github&theme=transparent&preferLogin=true"
+    width="420"
+    alt="Rennan GitHub Stats"
+  />
 
   <img width="20" />
 
-  <!-- Streak -->
-  <a href="https://github.com/rennangimenez#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/streak/?username=rennangimenez&theme=dark#gh-dark-mode-only"
-      height="190"
-      alt="Rennan GitHub Streak Dark"
-    />
-  </a>
-  <a href="https://github.com/rennangimenez#gh-light-mode-only">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/streak/?username=rennangimenez&theme=default#gh-light-mode-only"
-      height="190"
-      alt="Rennan GitHub Streak Light"
-    />
-  </a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=rennangimenez&theme=transparent&hide_border=true"
+    width="420"
+    alt="Rennan GitHub Streak"
+  />
 
 </div>
 
