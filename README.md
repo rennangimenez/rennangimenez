@@ -3,7 +3,7 @@
 <h2>👨🏼‍💻 About Me</h2>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=RGColozzo&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rennangimenez&color=lightgrey" alt="Profile views" />
 </p>
 
 <p>
@@ -31,7 +31,7 @@
   <li>🔧 Designing scalable automation frameworks (Playwright) with maintainability-first patterns</li>
   <li>📦 Building shared QA tooling (reporting, dashboards, Slack/Discord notifications, quality standards)</li>
   <li>🧠 Exploring AI-assisted and AI-driven workflows for test creation, debugging, and maintenance</li>
-  <li>🌐 Growing a community for bring together QA's, Developer, Recruiters and a lot more...</li>
+  <li>🌐 Growing a community to bring together QAs, Developers, Recruiters, and more</li>
 </ul>
 
 <hr/>
@@ -68,13 +68,7 @@
   <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="40" alt="kotlin logo" />
-</div>
-
-<hr/>
-
-<h2>💾 Databases</h2>
-
-<div align="left">
+  <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=postgresql" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=mysql" height="40" alt="mysql logo" />
@@ -84,13 +78,7 @@
   <img src="https://skills.syvixor.com/api/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=dbeaver" height="40" alt="dbeaver logo" />
-</div>
-
-<hr/>
-
-<h2>⚙️ AI & Tools</h2>
-
-<div align="left">
+  <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=chatgpt" height="40" alt="chatgpt logo" />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=cursor" height="40" alt="cursor logo" />
@@ -110,17 +98,27 @@
   <img src="https://skills.syvixor.com/api/icons?i=intellij" height="40" alt="intellij logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="40" alt="eclipse logo" />
-
 </div>
 
 <hr/>
 
 <h2>📈 GitHub Stats</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rennangimenez&show_icons=true&hide_title=true&include_all_commits=true" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennangimenez&layout=compact" height="150" alt="top langs" />
-</p>
+<div align="center">
+
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/rennangimenez?cardType=github&theme=transparent&preferLogin=true"
+    alt="Rennan GitHub Stats"
+    height="200"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=rennangimenez&theme=transparent&hide_border=true"
+    alt="Rennan GitHub Streak"
+    height="200"
+  />
+
+</div>
 
 <br/>
 
