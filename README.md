@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=node" height="40" alt="node logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="40" alt="graphql logo" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
@@ -65,9 +65,9 @@
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="40" alt="kotlin logo" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=postgresql" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -97,7 +97,7 @@
   <img width="12" />
   <img src="https://skills.syvixor.com/api/icons?i=intellij" height="40" alt="intellij logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="40" alt="eclipse logo" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
 </div>
 
 <hr/>
